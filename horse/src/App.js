@@ -12,13 +12,13 @@ import './css/menu.css';
 import './css/pixicon.css';
 import './css/skeleton.css';
 
-import './js/jquery-1.7.2.min.js';
-import './js/jquery.easing.1.3.js';
-import './js/jquery.common.min.js';
-import './js/custom.js';
-import './js/easing.1.3.js';
-import './assets/smoothscroll.min.js';
-import './assets/appear.min.js';
+// import './js/jquery-1.7.2.min.js';
+// // import './js/jquery.easing.1.3.js';
+// import './js/jquery.common.min.js';
+// import './js/custom.js';
+// import './js/easing.1.3.js';
+// import './assets/smoothscroll.min.js';
+// import './assets/appear.min.js';
 
 
 class App extends Component {
@@ -30,7 +30,7 @@ class App extends Component {
               <div className="header_style">
                   <div className="container">
                       <div className="sixteen columns header_area">
-                          <img src="src/images/2_corporate/logo.png" alt=""/>
+                          <img src="./images/2_corporate/logo.png" alt=""/>
 
                               <a href="#" className="yt_button"></a>
                               <a href="#" className="twitter_button"></a>
